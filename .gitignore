@@ -1,3 +1,4 @@
 keyframeextractor
 *.o
 .*.swp
+out
